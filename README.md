@@ -12,14 +12,14 @@ After 13 rounds, the game is over, and the player’s score is the total of each
 
 ### Scoring Categories:
 
-Ones 	        Score 1 for every 1
-Twos	        Score 2 for every 2
+Ones 	          Score 1 for every 1
+Twos	          Score 2 for every 2
 Threes	        Score 3 for every 3
-Fours	        Score 4 for every 4
-Fives	        Score 5 for every 5	
-Sixes	        Score 6 for every 6
-3 of Kind	    If 3+ of one value, score sum of all dice (otherwise, score 0)	
-4 of Kind	    If 4+ of one value, score sum of all dice (else 0)	
+Fours	          Score 4 for every 4
+Fives	          Score 5 for every 5	
+Sixes	          Score 6 for every 6
+3 of Kind	      If 3+ of one value, score sum of all dice (otherwise, score 0)	
+4 of Kind	      If 4+ of one value, score sum of all dice (else 0)	
 Full House	    If 3 of one value and 2 of another, score 25 (else 0)	
 Small Straight	If 4+ values in a row, score 30 (else 0)	
 Large Straight	If 5 values in a row, score 40 (else 0)	
@@ -35,9 +35,9 @@ The player decides to try for a full house, and freezes all of their twos and th
 
 Sadly, they didn’t get their full house. They could score this as:
 
-Twos: for 6 points
-Threes for 3 points
-Sixes: for 6 points
+Twos: 	for 6 points
+Threes: for 3 points
+Sixes: 	for 6 points
 Three of Kind: (twos) for 15 points
 Chance: for 15 points
 Any other category they claimed on this round would score 0.
