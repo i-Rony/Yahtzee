@@ -33,7 +33,7 @@ The initial roll is: `2 4 3 2 5`
 
 The player decides to try to get as many twos as possible, and clicks to freeze both twos, then re-rolls, getting a new `2 3 5`. They now have: `2 2 3 2 5`
 
-The player decides to try for a full house, and freezes all of their twos and their three (hoping to roll another 3 to get a full house). They re-roll the die showing five, getting a 6 and now have `2 2 3 2 6`.
+The player decides to try for a full house, and freezes all of their twos and their three (hoping to roll another 3 to get a full house). They re-roll the die showing five, getting a 6 and now have `2 2 3 2 6`
 
 Sadly, they didn’t get their full house. They could score this as:
 
