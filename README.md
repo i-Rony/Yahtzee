@@ -47,4 +47,4 @@ Three of Kind: (twos) for 15 points
 
 Chance: for 15 points
 
-Any other category they claimed on this round would score 0
+Any other category they claimed on this round would score 0 
